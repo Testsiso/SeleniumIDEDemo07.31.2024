@@ -95,6 +95,7 @@ C:\DemoGithub\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.GeneratedMS
 C:\DemoGithub\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.AssemblyInfoInputs.cache
 C:\DemoGithub\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.AssemblyInfo.cs
 C:\DemoGithub\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.csproj.CoreCompileInputs.cache
+C:\DemoGithub\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.sourcelink.json
 C:\DemoGithub\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.csproj.CopyComplete
 C:\DemoGithub\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.dll
 C:\DemoGithub\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\refint\SeleniumIde.dll
