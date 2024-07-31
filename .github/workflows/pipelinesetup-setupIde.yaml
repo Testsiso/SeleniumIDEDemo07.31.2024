@@ -1,4 +1,4 @@
-name:Selenium Ide CI
+name: Selenium Ide CI
 
 on:
    push:
@@ -15,7 +15,7 @@ jobs:
      -name: Checkout code
       uses: actions/checkout@v3
  
-     -name:Set up .Net
+     -name: Set up .Net
      -uses: actions/setup-dotnet@v3
       with:
          dotnet-version: "6.0x"
@@ -24,10 +24,10 @@ jobs:
        run: dotnet restore
         
        -name: Build
-       run: dotnet build --no-restore
+        run: dotnet build --no-restore
    
         -name: Run tests
-       run: dotnet tests --verbosity normal
+        run: dotnet tests --verbosity normal
 
        
     
